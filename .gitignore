@@ -1,0 +1,12 @@
+# 数据集和实验生成文件
+*.csv
+*.joblib
+*.png
+*.pdf
+*.docx
+
+# Python 缓存和系统文件
+__pycache__/
+*.pyc
+.DS_Store
+~$*
